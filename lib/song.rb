@@ -50,7 +50,7 @@ end
   
   def self.new_from_filename(filename)
   song_array = filename.split(" - ")
-  
+  song_array[1] = 
   end 
   
   def self.create_from_filename(filename)
