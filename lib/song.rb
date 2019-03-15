@@ -49,7 +49,7 @@ end
   end 
   
   def self.new_from_filename(filename)
-  
+  song.array = 
   end 
   
   def self.create_from_filename(filename)
